@@ -14,7 +14,7 @@ local core_modules = { ---- Core Settings ----------------------------------
 "configs/telescope", -- Fuzzy finder
 "configs/colorschemes", -- All Colorschemes
 "configs/staline", ---- Other Utilities --------------------------------
-"utils/utils"}
+"configs/cokeline", "utils/utils"}
 
 -- Using pcall we can handle better any loading issues
 for _, module in ipairs(core_modules) do

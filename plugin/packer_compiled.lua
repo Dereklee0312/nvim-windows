@@ -122,6 +122,11 @@ _G.packer_plugins = {
     path = "C:\\Users\\derek\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\nvim-cmp",
     url = "https://github.com/hrsh7th/nvim-cmp"
   },
+  ["nvim-cokeline"] = {
+    loaded = true,
+    path = "C:\\Users\\derek\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\nvim-cokeline",
+    url = "https://github.com/noib3/nvim-cokeline"
+  },
   ["nvim-colorizer.lua"] = {
     loaded = true,
     path = "C:\\Users\\derek\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\nvim-colorizer.lua",
